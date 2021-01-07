@@ -1,2 +1,2 @@
-# Herring-2020-Hybrid-ERT-Inversion
+# Herring-2021-Hybrid-ERT-Inversion
 Combined parametric and smooth ERT inversion
