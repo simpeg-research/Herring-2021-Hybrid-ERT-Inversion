@@ -1,4 +1,4 @@
-name: simpeg14
+name: hybrid_ert
 channels:
   - defaults
 dependencies:
@@ -6,4 +6,3 @@ dependencies:
   - simpeg
   - jupyterlab
   - cython
-prefix: /Users/teddiherringnew/anaconda/envs/simpeg14
