@@ -14,9 +14,9 @@ The standard smooth electrical resistivity tomography inversion produces an esti
 There are two notebooks in this repository. Each notebook tests the hybrid inversion using a synthetic resistivity dataset. Two scenarios are considered here:
 
 1. [frozen_layer](./frozen_layer.ipynb): This notebook presents a scenario with a conductive contaminant plume beneath a seasonally frozen surface layer.
-2. [cnns-for-uxo](./infiltration.ipynb): This notebook presents a scenario where the ERT survey is installed at the base of a managed aquifer recharge pond. There is a water layer above the electrodes and a zone of infiltration below the electrodes.
+2. [infiltration](./infiltration.ipynb): This notebook presents a scenario where the ERT survey is installed at the base of a managed aquifer recharge pond. There is a water layer above the electrodes and a zone of infiltration below the electrodes.
 
-There are also several files that are loaded into the notebooks to describe the temperature profiles, the soil freezing characteristic curve for the frozen layer scenario, and the saturation profile for the infiltration scenario.
+There are also several accompanying files that will be loaded into the notebooks to describe the temperature profiles, the soil freezing characteristic curve for the frozen layer scenario, and the saturation profile for the infiltration scenario.
 
 ## Usage
 
