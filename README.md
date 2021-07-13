@@ -3,7 +3,7 @@
 # Hybrid parametric/smooth inversion of electrical resistivity tomography data
 [![DOI](https://zenodo.org/badge/299123589.svg)](https://zenodo.org/badge/latestdoi/299123589)
 
-These notebooks can be used to reproduce inversion results from the following paper submitted to Computers & Geosciences: [(Herring et al., 2021)](./herring-et-al-C&G-2021.pdf). 
+These notebooks can be used to reproduce inversion results from the following paper submitted to Computers & Geosciences: [(Herring et al., 2021)](./herring_et_al_C&G_2021.pdf). 
 
 ## Abstract 
 
